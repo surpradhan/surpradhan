@@ -1,4 +1,4 @@
-# Surabhi Pradhan
+![Banner](./banner.svg)
 
 **AI Engineer · Builder · Bangalore**
 
