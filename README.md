@@ -18,11 +18,11 @@ AI-powered orchestration layer for autonomous mobile automation. 146 commits and
 **claude-code-for-ai-engineers** &nbsp; · &nbsp; Python  
 A methodology-first skill pack for AI engineers — covering RAG evaluation, agent debugging, MCP servers, paper reproduction, and benchmark reporting.
 
+**agent-workflow-comparison** &nbsp; · &nbsp; Python  
+A controlled benchmark of 10 AI agent workflow patterns — single-step through human-in-the-loop — evaluated across 25 tasks on success rate, answer quality, tool accuracy, latency, and token cost. Results are directly comparable.
+
 **cartograph** &nbsp; · &nbsp; Python  
 Intelligent mapping and data visualization.
-
-**FinMind** &nbsp; · &nbsp; TypeScript  
-Financial insight tooling powered by language models.
 
 ---
 
