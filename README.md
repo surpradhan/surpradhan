@@ -17,9 +17,9 @@
 I'm a developer passionate about **AI systems**, **agentic workflows**, and **building tools that think**. I enjoy working at the intersection of research and engineering — turning complex ideas into practical, working systems.
 
 - 🔭 Currently building: **personal-mobile-orchestrator** — an AI agent for mobile automation
-- - 🤖 Interested in: RAG systems, MCP servers, LLM evaluation, and agent debugging
-  - - 🌱 Always learning: new benchmarks, prompting techniques, and multi-agent architectures
-    - - 📍 Based in **Bangalore, India**
+- 🤖 Interested in: Agent Memory, RAG systems, MCP servers, LLM evaluation, and Agent Debugging
+- 🌱 Always learning: new benchmarks, prompting techniques, multi-agent architectures, memory systems.
+- 📍 Based in **Bangalore, India**
      
       - ---
 
