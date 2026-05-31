@@ -20,62 +20,62 @@ I'm a developer passionate about **AI systems**, **agentic workflows**, and **bu
 - 🤖 Interested in: Agent Memory, RAG systems, MCP servers, LLM evaluation, and Agent Debugging
 - 🌱 Always learning: new benchmarks, prompting techniques, multi-agent architectures, memory systems.
 - 📍 Based in **Bangalore, India**
-     
-      - ---
 
-      ## 🛠️ Tech Stack
+---
 
-      **Languages**
+## 🛠️ Tech Stack
 
-      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-      ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-      ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Languages**
 
-      **AI / ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-      ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-      ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-      ![Anthropic](https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat-square)
-      ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+**AI / ML**
 
-      **Tools & Infra**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-      ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-      ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-      ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-      ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+**Tools & Infra**
 
-      ---
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-      ## 🚀 Featured Projects
+---
 
-      | Project | Description | Stack |
-      |---|---|---|
-      | 🤖 [claude-code-for-ai-engineers](https://github.com/surpradhan/claude-code-for-ai-engineers) | Methodology-first skill pack for RAG eval, agent debugging, MCP servers & benchmark reporting | Python, Claude |
-      | 📱 [personal-mobile-orchestrator](https://github.com/surpradhan/personal-mobile-orchestrator) | AI-powered mobile automation orchestrator | Python |
-      | 🗺️ [cartograph](https://github.com/surpradhan/cartograph) | Intelligent mapping and visualization tool | Python |
-      | 💹 [FinMind](https://github.com/surpradhan/FinMind) | Financial insights powered by AI | TypeScript |
+## 🚀 Featured Projects
 
-      ---
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 [claude-code-for-ai-engineers](https://github.com/surpradhan/claude-code-for-ai-engineers) | Methodology-first skill pack for RAG eval, agent debugging, MCP servers & benchmark reporting | Python, Claude |
+| 📱 [personal-mobile-orchestrator](https://github.com/surpradhan/personal-mobile-orchestrator) | AI-powered mobile automation orchestrator | Python |
+| 🗺️ [cartograph](https://github.com/surpradhan/cartograph) | Intelligent mapping and visualization tool | Python |
+| 💹 [FinMind](https://github.com/surpradhan/FinMind) | Financial insights powered by AI | TypeScript |
 
-      ## 📊 GitHub Stats
+---
 
-      <div align="center">
+## 📊 GitHub Stats
 
-      ![Surabhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surpradhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<div align="center">
 
-      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surpradhan&layout=compact&theme=tokyonight&hide_border=true)
+![Surabhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surpradhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-      ![GitHub Streak](https://streak-stats.demolab.com?user=surpradhan&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surpradhan&layout=compact&theme=tokyonight&hide_border=true)
 
-      </div>
+![GitHub Streak](https://streak-stats.demolab.com?user=surpradhan&theme=tokyonight&hide_border=true)
 
-      ---
+</div>
 
-      <div align="center">
+---
 
-      *"The best way to predict the future is to build it."*
+<div align="center">
 
-      ![Profile views](https://komarev.com/ghpvc/?username=surpradhan&color=blueviolet&style=flat-square)
+*"The best way to predict the future is to build it."*
 
-      </div>
+![Profile views](https://komarev.com/ghpvc/?username=surpradhan&color=blueviolet&style=flat-square)
+
+</div>
