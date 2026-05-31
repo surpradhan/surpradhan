@@ -1,81 +1,47 @@
-<div align="center">
+# Surabhi Pradhan
 
-# Hi, I'm Surabhi Pradhan 👋
+**AI Engineer · Builder · Bangalore**
 
-### Building things that think
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surpradhan)
-[![GitHub followers](https://img.shields.io/github/followers/surpradhan?label=Follow&style=for-the-badge&logo=github)](https://github.com/surpradhan)
-[![Location](https://img.shields.io/badge/📍_Bangalore-India-orange?style=for-the-badge)](https://github.com/surpradhan)
-
-</div>
+[LinkedIn](https://linkedin.com/in/surpradhan) &nbsp;·&nbsp; [GitHub](https://github.com/surpradhan)
 
 ---
 
-## 🧠 About Me
-
-I'm a developer passionate about **AI systems**, **agentic workflows**, and **building tools that think**. I enjoy working at the intersection of research and engineering — turning complex ideas into practical, working systems.
-
-- 🔭 Currently building: **personal-mobile-orchestrator** — an AI agent for mobile automation
-- 🤖 Interested in: Agent Memory, RAG systems, MCP servers, LLM evaluation, and Agent Debugging
-- 🌱 Always learning: new benchmarks, prompting techniques, multi-agent architectures, memory systems.
-- 📍 Based in **Bangalore, India**
+I build systems at the intersection of language models and real-world utility — from evaluation frameworks and agent pipelines to tools that make AI actually work in production. Currently exploring agent memory, multi-agent orchestration, and the infra that makes large systems reliable.
 
 ---
 
-## 🛠️ Tech Stack
+## Work
 
-**Languages**
+**personal-mobile-orchestrator** &nbsp; · &nbsp; Python  
+AI-powered orchestration layer for autonomous mobile automation. 146 commits and counting.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**claude-code-for-ai-engineers** &nbsp; · &nbsp; Python  
+A methodology-first skill pack for AI engineers — covering RAG evaluation, agent debugging, MCP servers, paper reproduction, and benchmark reporting.
 
-**AI / ML**
+**cartograph** &nbsp; · &nbsp; Python  
+Intelligent mapping and data visualization.
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Tools & Infra**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+**FinMind** &nbsp; · &nbsp; TypeScript  
+Financial insight tooling powered by language models.
 
 ---
 
-## 🚀 Featured Projects
+## Stack
 
-| Project | Description | Stack |
-|---|---|---|
-| 🤖 [claude-code-for-ai-engineers](https://github.com/surpradhan/claude-code-for-ai-engineers) | Methodology-first skill pack for RAG eval, agent debugging, MCP servers & benchmark reporting | Python, Claude |
-| 📱 [personal-mobile-orchestrator](https://github.com/surpradhan/personal-mobile-orchestrator) | AI-powered mobile automation orchestrator | Python |
-| 🗺️ [cartograph](https://github.com/surpradhan/cartograph) | Intelligent mapping and visualization tool | Python |
-| 💹 [FinMind](https://github.com/surpradhan/FinMind) | Financial insights powered by AI | TypeScript |
+Python · TypeScript · JavaScript
 
----
+LangChain · OpenAI · Anthropic Claude · Hugging Face
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Surabhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surpradhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surpradhan&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=surpradhan&theme=tokyonight&hide_border=true)
-
-</div>
+FastAPI · PostgreSQL · Docker
 
 ---
 
-<div align="center">
+## Background
 
-*"The best way to predict the future is to build it."*
+I work at the edge of what language models can reliably do — building the scaffolding, the evals, and the debugging tools that make the difference between a demo and a system. My interest is less in the models themselves and more in the engineering discipline around them.
 
-![Profile views](https://komarev.com/ghpvc/?username=surpradhan&color=blueviolet&style=flat-square)
+559 contributions in the last year.
 
-</div>
+---
+
+*Bangalore, India*
