@@ -38,7 +38,7 @@ FastAPI · PostgreSQL · Docker
 
 ## Background
 
-I work at the edge of what language models can reliably do - building the scaffolding, the evals, and the debugging tools that make the difference between a demo and a system. My interest is less in the models themselves and more in the engineering discipline around them.
+I work at the edge of what language models can reliably do - building the scaffolding, the evals, and the debugging tools that make the difference between a demo and a system. My interest is both in the models themselves and but more in the engineering discipline around them.
 
 ---
 
