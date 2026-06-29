@@ -12,8 +12,8 @@ I build systems at the intersection of language models and real-world utility - 
 
 ## Work
 
-**personal-mobile-orchestrator** &nbsp; · &nbsp; Python  
-AI-powered orchestration layer for autonomous mobile automation. 146 commits and counting.
+**agent-event-protocol** &nbsp; · &nbsp; JavaScript  
+Open observability protocol for AI agent systems — structured event capture, real-time session tracing, and multi-agent workflow visibility in a single self-hosted deployment.
 
 **claude-code-for-ai-engineers** &nbsp; · &nbsp; Python  
 A methodology-first skill pack for AI engineers - covering RAG evaluation, agent debugging, MCP servers, paper reproduction, and benchmark reporting.
