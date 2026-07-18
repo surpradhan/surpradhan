@@ -2,7 +2,7 @@
 
 **AI Engineer · Builder · Bangalore**
 
-[LinkedIn](https://www.linkedin.com/in/surabhi-pradhan/) &nbsp;·&nbsp; [GitHub](https://github.com/surpradhan)
+[LinkedIn](https://www.linkedin.com/in/surabhi-pradhan/) &nbsp;·&nbsp; [GitHub](https://github.com/surpradhan) &nbsp;·&nbsp; [X](https://x.com/surabhipradhan)
 
 ---
 
